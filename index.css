@@ -10,3 +10,38 @@ h1 {
   padding: 40px;
   background-color: darkolivegreen;
 }
+
+
+h2{
+  color: white;
+  text-align: center;
+  display: block;
+  padding: 20px;
+  background-color: darkcyan;
+  margin-top: 40px;
+}
+
+
+p{
+  color: white;
+}
+
+
+h3{
+  color: white;
+  text-align: center;
+  display: block;
+  padding: 20px;
+  background-color: peru;
+  margin-top: 40px;
+}
+
+
+h4{
+  color: white;
+  text-align: center;
+  display: block;
+  padding: 20px;
+  background-color: blue;
+  margin-top: 40px;
+}
