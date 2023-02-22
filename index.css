@@ -24,6 +24,66 @@ h2{
 
 p{
   color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  display: block;
+  margin: 0px;
+  margin-left: 10px;
+}
+
+.uncharted1 {
+  display: flex;
+  flex-direction: row;
+}
+
+.uncharted3 {
+  display: flex;
+  flex-direction: row;
+}
+
+.uncharted2 {
+  display: flex;
+  flex-direction: row;
+}
+
+.uncharted4 {
+  display: flex;
+  flex-direction: row;
+}
+
+.unch1 {
+  color: white;
+  text-align: center;
+  display: block;
+  padding: 20px;
+  background-color: darkcyan;
+  margin-top: 40px;
+}
+
+.unch3 {
+  color: white;
+  text-align: center;
+  display: block;
+  padding: 20px;
+  background-color: peru;
+  margin-top: 40px;
+}
+
+.unch2 {
+  color: white;
+  text-align: center;
+  display: block;
+  padding: 20px;
+  background-color: rgb(28, 39, 204);
+  margin-top: 40px;
+}
+
+.unch4 {
+  color: white;
+  text-align: center;
+  display: block;
+  padding: 20px;
+  background-color: brown;
+  margin-top: 40px;
 }
 
 
@@ -33,15 +93,5 @@ h3{
   display: block;
   padding: 20px;
   background-color: peru;
-  margin-top: 40px;
-}
-
-
-h4{
-  color: white;
-  text-align: center;
-  display: block;
-  padding: 20px;
-  background-color: blue;
   margin-top: 40px;
 }
