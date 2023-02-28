@@ -33,22 +33,22 @@ p{
   width:100%;
 }
 
-.uncharted1 {
+.uncharted {
   display: flex;
   flex-direction: row;
 }
 
-.uncharted3 {
+.uncharted {
   display: flex;
   flex-direction: row;
 }
 
-.uncharted2 {
+.uncharted {
   display: flex;
   flex-direction: row;
 }
 
-.uncharted4 {
+.uncharted {
   display: flex;
   flex-direction: row;
 }
@@ -106,7 +106,7 @@ h3{
   display: block;
   margin: 0px;
   margin-left: 50%
-  background-color: black;
+  background-color black;
   width: fit-content;
 }
 
@@ -114,4 +114,5 @@ h3{
 .sent1{
   color: white;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
 }
