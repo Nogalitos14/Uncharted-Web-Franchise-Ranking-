@@ -1,7 +1,18 @@
 body {
   background-color: black;
+  background-image: url(Plane.jpg);
+  background-size: cover;
+  min-height: 100vh;
 }
+
+
 h1 {
+  color: white;
+  text-align: center;
+}
+
+
+p{
   color: white;
   text-align: center;
 }

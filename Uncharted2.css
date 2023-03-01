@@ -1,8 +1,18 @@
 body {
   background-color: black;
-  background-image: url(Forest.jpg);
+  background-image: url("Helicopter.jpg");
+  background-size: cover;
+  min-height: 100vh;
 }
+
+
 h1 {
-  color: white;
+  color: black;
   text-align: center;
+}
+
+
+p {
+color: black;
+text-align: center;
 }
